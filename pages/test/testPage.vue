@@ -7,6 +7,7 @@
 <script setup>
 	import { useCounterStore } from '@/store/index.js';
 	const counter = useCounterStore();
+	// const counter = useCounterStore();
 	const testPinia = () => {
 		counter.increment();
 		console.log(counter.count)
