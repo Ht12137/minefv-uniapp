@@ -31,5 +31,5 @@ const _sfc_main = {
     };
   }
 };
-var MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "D:/han/yq-frontend/mine-fv-vant/pages/index/index.vue"]]);
+var MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "E:/\u7F16\u7A0B/Uniapp/minefv-uniapp/pages/index/index.vue"]]);
 wx.createPage(MiniProgramPage);

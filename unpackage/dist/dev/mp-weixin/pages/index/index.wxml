@@ -1,1 +1,1 @@
-<view><van-button wx:if="{{b}}" bindclick="{{a}}" u-t="m" u-i="63ac89e8-0" bind:__l="__l" u-p="{{b}}">填写简历</van-button><van-button wx:if="{{d}}" bindclick="{{c}}" u-t="m" u-i="63ac89e8-1" bind:__l="__l" u-p="{{d}}">测试页面</van-button></view>
+<view><van-button wx:if="{{b}}" bindclick="{{a}}" u-t="m" u-i="3f566a74-0" bind:__l="__l" u-p="{{b}}">填写简历</van-button><van-button wx:if="{{d}}" bindclick="{{c}}" u-t="m" u-i="3f566a74-1" bind:__l="__l" u-p="{{d}}">测试页面</van-button></view>

@@ -1,1 +1,1 @@
-<van-field wx:if="{{a}}" u-t="m" u-i="75735874-0" bind:__l="__l" u-p="{{a}}"/><van-field wx:if="{{b}}" u-t="m" u-i="75735874-1" bind:__l="__l" u-p="{{b}}"/>
+<van-field wx:if="{{a}}" u-t="m" u-i="57bbfb2e-0" bind:__l="__l" u-p="{{a}}"/><van-field wx:if="{{b}}" u-t="m" u-i="57bbfb2e-1" bind:__l="__l" u-p="{{b}}"/>

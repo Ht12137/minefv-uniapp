@@ -1,1 +1,1 @@
-<view><van-button wx:if="{{b}}" bindclick="{{a}}" u-t="m" u-i="593c96d6-0" bind:__l="__l" u-p="{{b}}">测试pinia</van-button></view>
+<view><van-button wx:if="{{b}}" bindclick="{{a}}" u-t="m" u-i="0707bdcf-0" bind:__l="__l" u-p="{{b}}">测试pinia</van-button></view>
